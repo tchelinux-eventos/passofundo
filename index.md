@@ -100,7 +100,9 @@ Nesta apresentação veremos como SPA's funcionam, o porque dos webpacks e um po
 > Vila Rodrigues
 > Passo Fundo - RS
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.0970808711113!2d-52.39945368492557!3d-28.265072982564174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e2bf84ec8a7089%3A0xaed1f472fb179350!2sR.+Sen.+Pinheiro%2C+304+-+Vila+Rodrigues%2C+Passo+Fundo+-+RS%2C+99070-220!5e0!3m2!1sen!2sbr!4v1551593381119" width="1200" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="map-responsive">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.0970808711113!2d-52.39945368492557!3d-28.265072982564174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e2bf84ec8a7089%3A0xaed1f472fb179350!2sR.+Sen.+Pinheiro%2C+304+-+Vila+Rodrigues%2C+Passo+Fundo+-+RS%2C+99070-220!5e0!3m2!1sen!2sbr!4v1551593381119" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 ## Apoio
 
