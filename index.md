@@ -1,4 +1,4 @@
-[![Tchelinux 2019 Passo Fundo](images/banner.jpg)](https://passofundo.tchelinux.org)
+[![Tchelinux 2019 Passo Fundo](images/banner.jpg)](#)
 
 ## **Sobre**
 
@@ -31,7 +31,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | 15:10 <td colspan=5><center>**Coffee-Break**</center> |
 | 15:40 | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
 | 16:30 | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
-| 17:20 | [**Encerramento**]() <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
+| 17:20 | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 
 ## **Palestras**
 
