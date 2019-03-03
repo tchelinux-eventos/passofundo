@@ -6,4 +6,4 @@
 [Local](#Local)
 [Apoio](#Apoio)
 [Codigo de Conduta](https://wiki.tchelinux.org/#!conduta.md)
-[gimmick:theme (inverse: false)](cosmo)
+[gimmick:theme (inverse: false)](bootstrap)
