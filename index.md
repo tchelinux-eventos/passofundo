@@ -20,18 +20,18 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 | <center> Horário </center>  |  <center> Auditório </center>                             | 
 |:---------------------------:|:---------------------------------------------------------:|
-| 08:30 | **Credenciamento** |
-| 09:00 | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
-| 09:30 | [**Seu primeiro algoritmo de Machine Learning**](#Seu_primeiro_algoritmo_de_Machine_Learning) <br> <span class="label label-success">Princiante</span> <br> Fernando Posser Pinheiro |
-| 10:20 | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Princiante</span> <br> Rudnei José da Silva Bertol Júnior|
-| 11:10 | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Princiante</span> <br> Guilherme Pissolatto |
-| 12:00 <td colspan=5><center>**Intervalo para Almoço**</center> |
-| 13:30 | [**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
-| 14:20 | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Princiante</span> <br> Fábio Beneditto |
-| 15:10 <td colspan=5><center>**Coffee-Break**</center> |
-| 15:40 | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
-| 16:30 | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
-| 17:20 | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
+| **08:30** | **Credenciamento** |
+| **09:00** | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
+| **09:30** | [**Seu primeiro algoritmo de Machine Learning**](#Seu_primeiro_algoritmo_de_Machine_Learning) <br> <span class="label label-success">Princiante</span> <br> Fernando Posser Pinheiro |
+| **10:20** | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Princiante</span> <br> Rudnei José da Silva Bertol Júnior|
+| **11:10** | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Princiante</span> <br> Guilherme Pissolatto |
+| **12:00** <td colspan=5><center>**Intervalo para Almoço**</center> |
+| **13:30** | [**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
+| **14:20** | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Princiante</span> <br> Fábio Beneditto |
+| **15:10** <td colspan=5><center>**Coffee-Break**</center> |
+| **15:40** | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
+| **16:30** | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
+| **17:20** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 
 ## **Palestras**
 
