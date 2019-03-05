@@ -23,15 +23,16 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **08:30** | **Credenciamento** |
 | **09:00** | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 | **09:30** | [**Seu primeiro algoritmo de Machine Learning**](#Seu_primeiro_algoritmo_de_Machine_Learning) <br> <span class="label label-success">Princiante</span> <br> Fernando Posser Pinheiro |
-| **10:20** | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Princiante</span> <br> Rudnei José da Silva Bertol Júnior|
-| **11:10** | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Princiante</span> <br> Guilherme Pissolatto |
-| **12:00** <td colspan=5><center>**Intervalo para Almoço**</center> |
-| **13:30** | [**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
-| **14:20** | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Princiante</span> <br> Fábio Beneditto |
-| **15:10** <td colspan=5><center>**Coffee-Break**</center> |
-| **15:40** | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
-| **16:30** | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
-| **17:20** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
+| **10:15** | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Princiante</span> <br> Rudnei José da Silva Bertol Júnior|
+| **11:00** | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Princiante</span> <br> Guilherme Pissolatto |
+| **11:45** | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
+| **12:30** <td colspan=5><center>**Intervalo para Almoço**</center> |
+| **14:00** | [**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
+| **14:45** | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Princiante</span> <br> Fábio Beneditto |
+| **15:30** <td colspan=5><center>**Coffee-Break**</center> |
+| **16:00** | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
+| **16:45** | [**Linux Desktop - 2019 é o ano de deixar o Windows?**](#Linux_Desktop_-_2019_é_o_ano_de_deixar_o_Windows?) <br> <span class="label label-success">Princiante</span> <br> Dionatan Simioni |
+| **17:30** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 
 ## **Palestras**
 
@@ -59,6 +60,14 @@ Lean inception é um modelo de colaboração para a criação de produtos. Diver
 
 [Guilherme Pissolatto](https://www.linkedin.com/in/guilhermepissolatto/) é formado em Ciências da Computação pela Universidade de Passo Fundo e Especialista em Qualidade de Software – Unisinos.
 
+### Implementando Segurança com Zabbix
+
+Cada vez mais as áreas de negócio das empresas estão utilizando serviços de tecnologia da Informação para suportarem suas atividades estratégicas e operacionais, ou seja, à medida que isso avança se tornam necessários profissionais que tenham conhecimento sobre práticas e propostas sobre padrões de mercados.Sendo assim vou falar um pouco sobre a ferramenta Zabbix aplicada na área de segurança da informação adequando isso as melhores práticas de mercado.
+
+### Adilmar Morandi
+
+[Adilmar Morandi](https://www.linkedin.com/in/adilmar-morandi-b20aa443/) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela URI - Campus de Erechim, certificado ITIL® Foundation Certificate in IT Service Management pela EXIN e entusiasta em software Livre e Opensource. Trabalha na área de TI à 8 anos atualmente Líder responsável pela infraestrutura e gestão de projetos da área de TI na Edelbra Gráfica.
+
 ### Linux, Raspberry Pi e IoT
 
 O Objetivo da palestra é mostrar como é fácil instalar e configurar um sistema operacional Linux em um mini-PC Raspberry Pi. Além disso, irei analisar a API para integrar com Internet das Coisas, demonstrações que é possível ser feito.
@@ -75,14 +84,6 @@ O mínimo que você precisa saber sobre Git, sistema de versionamento de arquivo
 
 [Fabio Beneditto](https://about.me/fabiobeneditto) é Desenvolvedor Web, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, é praticante de #mototerapia.
 
-### Implementando Segurança com Zabbix
-
-Cada vez mais as áreas de negócio das empresas estão utilizando serviços de tecnologia da Informação para suportarem suas atividades estratégicas e operacionais, ou seja, à medida que isso avança se tornam necessários profissionais que tenham conhecimento sobre práticas e propostas sobre padrões de mercados.Sendo assim vou falar um pouco sobre a ferramenta Zabbix aplicada na área de segurança da informação adequando isso as melhores práticas de mercado.
-
-### Adilmar Morandi
-
-[Adilmar Morandi](https://www.linkedin.com/in/adilmar-morandi-b20aa443/) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela URI - Campus de Erechim, certificado ITIL® Foundation Certificate in IT Service Management pela EXIN e entusiasta em software Livre e Opensource. Trabalha na área de TI à 8 anos atualmente Líder responsável pela infraestrutura e gestão de projetos da área de TI na Edelbra Gráfica.
-
 ### Venha para o lado SPA da força e React!
 
 Nesta apresentação veremos como SPA's funcionam, o porque dos webpacks e um pouco de React no final com exemplos.
@@ -90,6 +91,14 @@ Nesta apresentação veremos como SPA's funcionam, o porque dos webpacks e um po
 ### Giuseppe M Pereira
 
 [Giuseppe M Pereira](https://www.linkedin.com/in/giuseppe-m-pereira-b6ba56bb/) é Arquiteto de Soluções Agilista, Microservices Expert na empresa Meta.
+
+### Linux Desktop - 2019 é o ano de deixar o Windows?
+
+A ideia é mostrar o vislumbre atual do desktop Linux, com distros e ferramentais adequados para quem fazer a migração, mostrando a aplicação do sistema em diversas vertentes diferentes, inclundo produção audivisual, design, office e games.
+
+### Dionantan Simioni
+
+Criador do blog e canal Diolinux, escritor e divulgador de softwares open source.
 
 
 ## Local
