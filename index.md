@@ -96,9 +96,9 @@ Nesta apresentação veremos como SPA's funcionam, o porque dos webpacks e um po
 
 A ideia é mostrar o vislumbre atual do desktop Linux, com distros e ferramentais adequados para quem fazer a migração, mostrando a aplicação do sistema em diversas vertentes diferentes, inclundo produção audivisual, design, office e games.
 
-### Dionantan Simioni
+### Dionatan Simioni
 
-Criador do blog e canal Diolinux, escritor e divulgador de softwares open source.
+[Dionatan Simioni](https://br.linkedin.com/in/dionatan-simioni-59baa636) é criador do blog e canal Diolinux, escritor e divulgador de softwares open source.
 
 
 ## Local
