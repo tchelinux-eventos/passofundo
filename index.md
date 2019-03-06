@@ -1,22 +1,22 @@
 [![Tchelinux 2019 Passo Fundo](images/banner.jpg)](#)
 
-## **Sobre**
+## Sobre
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [IMED Passo Fundo](https://https://imed.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **30 de Março de 2019 a partir das 8:30h** na IMED em Passo Fundo.
 
-## **Inscrições**
+## Inscrições
 
  O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região. Os alimentos são recebidos no momento do credenciamento.
 
 <a href="https://goo.gl/forms/lPym9kghqwphR7JI2" target="_blank"><b>Clique aqui para fazer sua inscrição!</b></a>
 
-## **Certificados**
+## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
 
 **Importante:** Não esqueça de confirmar sua presença no credenciamento.
 
-## **Programação**
+## Programação
 
 | <center> Horário </center>  |  <center> Auditório </center>                             | 
 |:---------------------------:|:---------------------------------------------------------:|
@@ -34,7 +34,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **16:45** | [**Linux Desktop - 2019 é o ano de deixar o Windows?**](#Linux_Desktop_-_2019_é_o_ano_de_deixar_o_Windows?) <br> <span class="label label-success">Princiante</span> <br> Dionatan Simioni |
 | **17:30** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 
-## **Palestras**
+## Palestras
 
 ### Seu primeiro algoritmo de Machine Learning
 
