@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [IMED Passo Fundo](https://https://imed.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **30 de Março de 2019 a partir das 8:30h** na IMED em Passo Fundo.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [IMED Passo Fundo](https://imed.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **30 de Março de 2019 a partir das 8:30h** na IMED em Passo Fundo.
 
 ## Inscrições
 
@@ -22,16 +22,16 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 |:---------------------------:|:---------------------------------------------------------:|
 | **08:30** | **Credenciamento** |
 | **09:00** | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
-| **09:30** | [**Seu primeiro algoritmo de Machine Learning**](#Seu_primeiro_algoritmo_de_Machine_Learning) <br> <span class="label label-success">Princiante</span> <br> Fernando Posser Pinheiro |
-| **10:15** | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Princiante</span> <br> Rudnei José da Silva Bertol Júnior|
-| **11:00** | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Princiante</span> <br> Guilherme Pissolatto |
-| **11:45** | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Princiante</span> <br> Adilmar Morandi |
+| **09:30** | [**Seu primeiro algoritmo de Machine Learning**](#Seu_primeiro_algoritmo_de_Machine_Learning) <br> <span class="label label-success">Principiante</span> <br> Fernando Posser Pinheiro |
+| **10:15** | [**Automatizando ambientes com Ansible**](#Automatizando_ambientes_com_Ansible) <br> <span class="label label-success">Principiante</span> <br> Rudnei José da Silva Bertol Júnior|
+| **11:00** | [**Lean Inception**](#Lean_Inception) <br> <span class="label label-success">Principiante</span> <br> Guilherme Pissolatto |
+| **11:45** | [**Implementando segurança com Zabbix**](#Implementando_Segurança_com_Zabbix) <br> <span class="label label-success">Principiante</span> <br> Adilmar Morandi |
 | **12:30** <td colspan=5><center>**Intervalo para Almoço**</center> |
 | **14:00** | [**Linux, Raspberry Pi e IoT**](#Linux,_Raspberry_Pi_e_IoT) <br> <span class="label label-warning">Intermediário</span> <br> Ricardo da Silva Ogliari |
-| **14:45** | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Princiante</span> <br> Fábio Beneditto |
+| **14:45** | [**Git para principiantes**](#Git_para_principiantes) <br> <span class="label label-success">Principiante</span> <br> Fábio Beneditto |
 | **15:30** <td colspan=5><center>**Coffee-Break**</center> |
-| **16:00** | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Princiante</span> <br> Giuseppe M. Pereira |
-| **16:45** | [**Linux Desktop - 2019 é o ano de deixar o Windows?**](#Linux_Desktop_-_2019_é_o_ano_de_deixar_o_Windows?) <br> <span class="label label-success">Princiante</span> <br> Dionatan Simioni |
+| **16:00** | [**Venha para o lado SPA da força e React!**](#Venha_para_o_lado_SPA_da_força_e_React!) <br> <span class="label label-success">Principiante</span> <br> Giuseppe M. Pereira |
+| **16:45** | [**Linux Desktop - 2019 é o ano de deixar o Windows?**](#Linux_Desktop_-_2019_é_o_ano_de_deixar_o_Windows?) <br> <span class="label label-success">Principiante</span> <br> Dionatan Simioni |
 | **17:30** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 
 ## Palestras
