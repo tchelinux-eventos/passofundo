@@ -127,3 +127,4 @@ A ideia é mostrar o vislumbre atual do desktop Linux, com distros e ferramentai
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
+[![Projeto Root](images/logo_projetoroot.png)](https://projetoroot.com.br/)
