@@ -120,4 +120,6 @@ A ideia é mostrar o vislumbre atual do desktop Linux, com distros e ferramentai
 
 ### Patrocínio
 
-[![ContentTools](images/contenttools.png)](https://contentools.com/)
+[![ContentTools](images/logo_contenttools.png)](https://contentools.com/)
+
+
