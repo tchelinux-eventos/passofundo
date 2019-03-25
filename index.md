@@ -123,6 +123,7 @@ A ideia é mostrar o vislumbre atual do desktop Linux, com distros e ferramentai
 [![ContentTools](images/logo_contenttools.png)](https://contentools.com/)
 [![Meta](images/logo_meta.png)](http://www.meta.com.br)
 [![Venda Bem](images/logo_vendabem.png)](http://www.vendabem.com.br/)
+[![Atua](images/logo_atua.png)](https://www.atua.com.br/)
 
 ### Divulgação
 
