@@ -6,7 +6,7 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [IMED Passo 
 
 ## Chamada de Trabalhos
 
-A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **28 de Fevereiro de 2020**. Os trabalhos escolhidos serão anúnciados no dia 29 de Fevereiro de 2020.
+A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **01 de Março de 2020**. Os trabalhos escolhidos serão anúnciados no dia **02 de Março de 2020**.
 
 <center><a href="https://passofundo.tchelinux.org/cfp/" style="color:#ff4040"><b><h3>Clique aqui e submeta sua palestra!<h3></b></a></center>
 
