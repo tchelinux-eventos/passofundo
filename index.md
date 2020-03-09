@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [IMED Passo Fundo](https://imed.edu.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **28 de Março de 2020 a partir das 8:30h** na IMED em Passo Fundo.
 
-## Chamada de Trabalhos
-
-A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **05 de Março de 2020**. Os trabalhos escolhidos serão anúnciados no dia **06 de Março de 2020**.
-
-<center><a href="https://passofundo.tchelinux.org/cfp/" style="color:#ff4040"><b><h3>Clique aqui e submeta sua palestra!<h3></b></a></center>
-
 ## Inscrições
 
 As inscrições já se encontram abertas e podem ser feitas através do link abaixo: 
